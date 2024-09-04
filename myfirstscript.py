@@ -1,6 +1,7 @@
 # problem #1
 # What is mising in the while loop? 
 # use a breakpoint in line 6 to debug
+
 x = 1
 while x < 10:
     print(x)

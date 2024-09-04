@@ -7,6 +7,7 @@
     #source myvenv/bin/activate
 #3: Install the 3rd party libraries
     #pip3 install mathplotlib <<<this can change
+
 import matplotlib.pyplot as plt
 import numpy as np
 
