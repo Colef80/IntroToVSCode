@@ -16,5 +16,10 @@ plt.plot(x, np.sin(x))
 
 plt.show()
 
+print("Hello there!")
+
+print("Hi again!")
+
+
 #always check bottom right to see what env you are in
 #Ensure that the env with libraries installed (ve) is being used
